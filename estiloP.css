@@ -67,6 +67,7 @@ header {
 #links-footer a {
     color: #6633CC;
     margin: 5px;
+    border-bottom: 1px solid white;
        
 }
 #links-footer a:hover {
